@@ -1,3 +1,5 @@
+; определение большего числа из трёх
+
 section .text
     global _start
 

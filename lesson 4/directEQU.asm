@@ -1,3 +1,7 @@
+; Выводим строки текста
+; "Hello man!"
+; "Welcome to the world of, Nasm assebly proramming"
+
 SYS_EXIT equ 1
 SYS_WRITE equ 4
 STDIN   equ 0

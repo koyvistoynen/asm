@@ -1,3 +1,5 @@
+; суммирование двух чисел
+
 section .text
     global _start
 
