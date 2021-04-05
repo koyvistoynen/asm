@@ -37,7 +37,7 @@ do_calc:
     ret
 
 section .data
-message db 'Факториал числа 2 равен: ',0xa
+message db 'Факториал числа 2 равен: ', 0xA,0xD
 len equ $ - message
 
 section .bss

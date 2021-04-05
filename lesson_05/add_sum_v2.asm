@@ -30,7 +30,7 @@ _start:
     int 0x80
 
 section .data
-    message db "Сумма чисел: "
+    message db "Сумма чисел: ", 0xA,0xD
     len equ $ - message
 
 section .bss

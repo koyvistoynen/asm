@@ -34,7 +34,7 @@ sum:
     ret
 
 section .data
-message db "Сумма равна: ", 0xa,0xd
+message db "Сумма равна: ", 0xA,0xD
 len equ $ - message
 
 section .bss
