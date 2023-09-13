@@ -13,7 +13,7 @@ ld -m elf_i386 -s -o helloworld helloworld.o <br>
 ./helloworld <br>
 
 <b>lesson_01</b>
-"HelloWorld.asm" - выводим строку "HelloWorld";
+"HelloWorld.asm" - выводим строку "HelloWorld";<br>
 "HelloWorld_V2.asm" - выводим строку "HelloWorld" (замена section на segment);
 
 <b>lesson_02</b>
